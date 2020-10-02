@@ -79,7 +79,6 @@
     <Content Include="Content\owl.theme.green.css" />
     <Content Include="Content\owl.theme.green.min.css" />
     <Content Include="Content\style.css" />
-    <Content Include="Images\blog.jpg" />
     <Content Include="Images\blog_1.jpg" />
     <Content Include="Images\bug_tracker.jpg" />
     <Content Include="Images\challenge.jpg" />
