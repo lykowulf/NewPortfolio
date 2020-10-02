@@ -80,8 +80,14 @@
     <Content Include="Content\owl.theme.green.min.css" />
     <Content Include="Content\style.css" />
     <Content Include="Images\blog.jpg" />
+    <Content Include="Images\blog_1.jpg" />
     <Content Include="Images\bug_tracker.jpg" />
+    <Content Include="Images\challenge.jpg" />
+    <Content Include="Images\challenge1.jpg" />
+    <Content Include="Images\fear.jpg" />
+    <Content Include="Images\fizzbuzz.png" />
     <Content Include="Images\money.jpg" />
+    <Content Include="Images\Money1.jpg" />
     <Content Include="Images\money_API.jpg" />
     <Content Include="Images\owl.video.play.png" />
     <Content Include="Fonts\fontawesome-webfont.svg" />
@@ -98,6 +104,9 @@
     <Content Include="Images\post-1.jpg" />
     <Content Include="Images\post-2.jpg" />
     <Content Include="Images\post-3.jpg" />
+    <Content Include="Images\racecar.jpg" />
+    <Content Include="Images\sunset_hill1.jpg" />
+    <Content Include="Images\sunset_hills.jpg" />
     <Content Include="Images\testimonial-2.jpg" />
     <Content Include="Images\testimonial-4.jpg" />
     <Content Include="Images\work-1.jpg" />
