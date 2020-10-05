@@ -85,6 +85,8 @@
     <Content Include="Images\challenge1.jpg" />
     <Content Include="Images\fear.jpg" />
     <Content Include="Images\fizzbuzz.png" />
+    <Content Include="Images\intro-bg-joe.jpg" />
+    <Content Include="Images\intro-big-Joe.JPG" />
     <Content Include="Images\money.jpg" />
     <Content Include="Images\Money1.jpg" />
     <Content Include="Images\money_API.jpg" />
@@ -104,6 +106,7 @@
     <Content Include="Images\post-2.jpg" />
     <Content Include="Images\post-3.jpg" />
     <Content Include="Images\racecar.jpg" />
+    <Content Include="Images\sum-of-fears.jpg" />
     <Content Include="Images\sunset_hill1.jpg" />
     <Content Include="Images\sunset_hills.jpg" />
     <Content Include="Images\testimonial-2.jpg" />
